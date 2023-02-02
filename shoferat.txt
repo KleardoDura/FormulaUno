@@ -1,0 +1,12 @@
+Valtteri Bottas FIN AlfaRomeo 3 2 0 0 51
+Yuki Tsunoda JPN AlphatauriRbpt 3 0 1 1 41
+Sebastian Vettel GER AstonMartin 3 0 1 1 39
+Dennis Hauger FIN HitechGP 3 0 0 0 18
+Charles Leclerc MON Ferrari 3 1 0 0 41
+Kevin Magnussen DEN HaasFerrari 3 0 0 0 16
+Lando Norris GBP MclarenMercedes 2 0 0 0 16
+Nicholas Latifi CAN WilliamsMercedes 2 0 0 0 22
+Lewis Hamilton GBR Mercedes 3 0 1 0 26
+Jehan Daruvala IND PremaRacing 2 0 0 0 1
+Esteban Ocon FRA AlpineRenault 2 0 0 1 15
+Max Verstappen NED RedBull 2 0 0 0 10
